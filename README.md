@@ -43,6 +43,6 @@ Install Pygame using the following terminal command:
 The program uses a simple Tkinter messagebox to notify the user if there is no solution.
 Close the Pygame window to exit the program.
 
-# *Feel free to explore, modify, and use this code for educational purposes or as a starting point for more complex pathfinding algorithms. If you have any questions or suggestions, please feel free to contact me. *
+#### Feel free to explore, modify, and use this code for educational purposes or as a starting point for more complex pathfinding algorithms. If you have any questions or suggestions, please feel free to contact me. 
 
 *Made by Dan Dragos*
